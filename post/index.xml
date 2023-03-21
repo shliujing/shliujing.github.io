@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Jing Liu&#39; Website</title>
+    <link>https://www.iamlj.com/post/</link>
+      <atom:link href="https://www.iamlj.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Mar 2023 17:18:14 +0800</lastBuildDate>
+    <image>
+      <url>https://www.iamlj.com/media/icon_hub4a8cfd9b9ede80e1565b341e66849d4_8722_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://www.iamlj.com/post/</link>
+    </image>
+    
+    <item>
+      <title>New work to be show</title>
+      <link>https://www.iamlj.com/post/new_work/</link>
+      <pubDate>Mon, 20 Mar 2023 17:18:14 +0800</pubDate>
+      <guid>https://www.iamlj.com/post/new_work/</guid>
+      <description>&lt;p&gt;New work to be show&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

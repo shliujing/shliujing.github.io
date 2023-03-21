@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Jing Liu&#39; Website</title>
+    <link>https://www.iamlj.com/publication-type/2/</link>
+      <atom:link href="https://www.iamlj.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.iamlj.com/media/icon_hub4a8cfd9b9ede80e1565b341e66849d4_8722_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://www.iamlj.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>DSDCLA: Driving Style Detection via Hybrid CNN-LSTM with Multi-Level Attention Fusion</title>
+      <link>https://www.iamlj.com/publication/dsdcla/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.iamlj.com/publication/dsdcla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
